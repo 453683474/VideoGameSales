@@ -1,1 +1,2 @@
-# VideoGameSales
+所选择的问题为Video Game Sales 电子游戏销售分析。
+对数据集进行处理的代码和数据挖掘的代码均在GameSales文件中，输入文件路径并运行即可得到所有结果
